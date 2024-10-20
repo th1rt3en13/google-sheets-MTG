@@ -1,5 +1,5 @@
 # Scryfall Google Sheets PT/BR
-Este projeto é um fork da integração entre a [API](https://scryfall.com/docs/api) do Scryfall e o Google Sheets, originalmente criada por [April King](https://github.com/april). Esta versão adiciona novos campos e suporte ao idioma português do Brasil.
+Este projeto é um fork da integração entre a API do [Scryfall](https://scryfall.com/docs/api) e o Google Sheets, originalmente criada por [April King](https://github.com/april). Esta versão adiciona novos campos e suporte ao idioma português do Brasil.
 ![](image.png)
 
 ## Instalação
